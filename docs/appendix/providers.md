@@ -106,7 +106,7 @@ Kimi K2 模型。
 
 ---
 
-### Z.AI（智谱）
+### Zhipu AI （智谱）
 
 提供 GLM 系列模型。
 
@@ -116,11 +116,11 @@ Kimi K2 模型。
 
 **配置步骤**：
 ```bash
-/connect  # 搜索 Z.AI
-# 如果订阅了 GLM Coding Plan，选择 Z.AI Coding Plan
+/connect  # 搜索 Zhipu AI 
+# 如果订阅了 GLM Coding Plan，选择 Zhipu AI  Coding Plan
 ```
 
-**获取 API Key**：[z.ai](https://z.ai/manage-apikey/apikey-list)
+**获取 API Key**：https://bigmodel.cn/usercenter/proj-mgmt/apikeys
 
 ---
 
